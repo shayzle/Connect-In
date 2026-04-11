@@ -44,7 +44,7 @@ built for educational purposes only.
 
 1. Clone the repository:
 
-    git clone git@github.com:EpitechWebAcademiePromo2027/W-WEB-103-PAR-1-1-connect_in-4.git
+    git clone git@github.com:shayzle/connect-in.git
 
 2. Navigate into the project folder:
 
